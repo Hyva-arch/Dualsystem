@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Dualsystem\Dualsystem\bin\Debug\Dualsystem.exe.config
+C:\Users\User\source\repos\Dualsystem\Dualsystem\bin\Debug\Dualsystem.exe
+C:\Users\User\source\repos\Dualsystem\Dualsystem\bin\Debug\Dualsystem.pdb
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.Form1.resources
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.Properties.Resources.resources
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.exe
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.pdb
+C:\Users\User\source\repos\Dualsystem\Dualsystem\obj\Debug\Dualsystem.csproj.AssemblyReference.cache
